@@ -6,8 +6,8 @@ const Footer = () => {
       <div className='container mx-auto px-4'>
         <div className='flex flex-col md:flex-row justify-between items-center'>
           <div className='mb-4 md:mb-0'>
-            <h2 className='text-lg font-bold italic'>
-              Job <span className='text-red-600'>Portal</span>
+            <h2 className='text-lg font-bold italic capitalize text-purple-700'>
+              interlynk
             </h2>
           </div>
 
